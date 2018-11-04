@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace Lab2
 {
     class Program
     {
@@ -30,3 +30,6 @@ namespace ConsoleApp1
         }
     }
 }
+
+// Our program executes at main //
+// An example of a method is main method //
